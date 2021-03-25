@@ -1,0 +1,36 @@
+@media screen and (min-width: 930px) {
+    .planes-container--slider {
+        justify-content: center;
+        overflow-x: initial;
+    }
+
+    .right img {
+    height: 80px;
+    }
+
+    .container-Product-feacture .container-table span .derecha {
+        left: 320px;
+    }
+
+    footer .left ul {
+        font-size: 2rem;
+    }
+
+    footer .left ul li {
+        padding-bottom: 5px;
+    }
+
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+    .header-container .header-text .btn {
+        top: 190px;
+    }
+
+    .container-Product-feacture .container-table span .derecha {
+        left: 315px;
+    }
+}
