@@ -350,7 +350,7 @@ html {
     display: flex;
     position: relative;
     height: 316px;
-    width: 75%;
+    /*width: 75%;*/
     /* justify-content: center; */
     /* gap: 5px; */
     /* overflow: hidden; */
