@@ -50,7 +50,7 @@ html {
 .header-container .header-text .img, h3 {
     display: inline-block;
     font-size: 2.4rem;
-    margin: 0 0 20px 0;
+    margin: 0 10px 20px 0;
     color: #F7931A;
     font-weight: 700;
     line-height: 1.8rem;
