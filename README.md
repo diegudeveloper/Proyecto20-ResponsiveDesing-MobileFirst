@@ -22,6 +22,6 @@ Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 20](https:
 <details>
     <summary>📱 Mobile version</summary>
     
-![]()
+![](https://github.com/diegudeveloper/Proyecto20-ResponsiveDesing-MobileFirst/blob/gh-pages/assets/img/mobile.png)
 
 </details>
